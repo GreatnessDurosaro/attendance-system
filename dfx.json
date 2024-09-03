@@ -1,0 +1,16 @@
+{
+  "canisters": {
+    "attendance-system-backend": {
+      "main": "src/attendance-system-backend/main.mo",
+      "type": "motoko"
+    }
+  },
+  "defaults": {
+    "build": {
+      "args": "",
+      "packtool": ""
+    }
+  },
+  "output_env_file": ".env",
+  "version": 1
+}
